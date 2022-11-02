@@ -1,0 +1,19 @@
+﻿@page
+@model Viktor_Recipies.Pages.RecipiesModel
+@{
+}
+<div class="text-center">
+
+    @foreach (var Recipies in Model.Recipies)
+    {
+        <img src="@Recipies.Image" class="card-img-top" alt="@Recipies.Name">
+        <div class="card-body">
+            <h5 class="card-title">@Recipies.Name</h5>
+            <p>@string.Join(", ",Recipies.Ingredients) </p>
+
+        </div>
+
+    }
+
+
+</div>

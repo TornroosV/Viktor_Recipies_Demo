@@ -1,0 +1,73 @@
+[
+  {
+    "Id": 10,
+    "Name": "Butter Chicken",
+    "Image": "https://www.kitchensanctuary.com/wp-content/uploads/2021/04/Butter-Chicken-square-FS-34.jpg",
+    "Ingredients": [
+      "Chicken Breast",
+      "Butter",
+      "Rice",
+      "Garam Masala",
+      "Onion",
+      "Red Chili",
+      "Tomatoes",
+      "Ginger",
+      "Garlic"
+    ]
+  },
+  {
+    "Id": 14,
+    "Name": "Swedish Tacos",
+    "Image": "https://assets.icanet.se/e_sharpen:80,q_auto,dpr_1.25,w_718,h_718,c_lfill/imagevaultfiles/id_166979/cf_259/tacos.jpg",
+    "Ingredients": [
+      "Minced Meat",
+      "Onion",
+      "Cheese",
+      "Lettuce",
+      "Tomatoes",
+      "Tortilla",
+      "Sour Cream",
+      "Hot Sauce"
+    ]
+  },
+  {
+    "Id": 7,
+    "Name": "Shish Kebab",
+    "Image": "https://i0.wp.com/shadmajid.com/wp-content/uploads/2021/07/grillad_kebabspett-3312586988-1631357895701.jpg?fit=878%2C727&ssl=1",
+    "Ingredients": [
+      "Lamb",
+      "Onion",
+      "Parsley",
+      "Eggs",
+      "Flour",
+      "water"
+    ]
+  },
+  {
+    "Id": 14,
+    "Name": "Swedish Tacos",
+    "Image": "https://assets.icanet.se/e_sharpen:80,q_auto,dpr_1.25,w_718,h_718,c_lfill/imagevaultfiles/id_166979/cf_259/tacos.jpg",
+    "Ingredients": [
+      "Minced Meat",
+      "Onion",
+      "Cheese",
+      "Lettuce",
+      "Tomatoes",
+      "Tortilla",
+      "Sour Cream",
+      "Hot Sauce"
+    ]
+  },
+  {
+    "Id": 1,
+    "Name": "Lasagna",
+    "Image": "https://insanelygoodrecipes.com/wp-content/uploads/2021/01/Homemade-Ground-Beef-Lasagna-with-Melted-Cheese.png",
+    "Ingredients": [
+      "Onion",
+      "Pasta",
+      "Minced Meat",
+      "Carrots",
+      "Cellery"
+    ]
+  }
+]

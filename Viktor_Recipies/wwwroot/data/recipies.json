@@ -1,0 +1,92 @@
+[
+  {
+    "Id": 1,
+    "Name": "Lasagna",
+    "Image": "https://insanelygoodrecipes.com/wp-content/uploads/2021/01/Homemade-Ground-Beef-Lasagna-with-Melted-Cheese.png",
+    "Ingredients": [ "Onion", "Pasta", "Minced Meat", "Carrots", "Cellery" ]
+  },
+  {
+    "Id": 2,
+    "Name": "Meatballs with Potatoes and Sauce",
+    "Image": "https://www.madopskrifter.nu/Images/Meals/WebMedium/12244/da/Frikadeller-med-kartofler%2C-sovs-og-raakost-0-d9d44f2a-3e4c-47e6-9681-084f7c5be38a.jpg",
+    "Ingredients": [ "Minced Meat", "Onions", "Potatoes", "Gravy" ]
+  },
+  {
+    "Id": 3,
+    "Name": "Chicken Pomodoro",
+    "Image": "https://www.eazypeazymealz.com/wp-content/uploads/2020/09/sc-chicken-pomodoro-9.jpg",
+    "Ingredients": [ "Chicken Breast", "Onion", "Pasta", "Garlic", "Cooking Cream", "Spinach" ]
+  },
+  {
+    "Id": 4,
+    "Name": "Chicken Salad",
+    "Image": "https://healthyfitnessmeals.com/wp-content/uploads/2021/04/Southwest-chicken-salad-7.jpg",
+    "Ingredients": [ "Chicken Breast", "Onion", "Pasta", "Lettuce", "Tomatoes", "Sauce" ]
+  },
+  {
+    "Id": 5,
+    "Name": "Goulash",
+    "Image": "https://www.spendwithpennies.com/wp-content/uploads/2018/09/Hungarian-Goulash-21.jpg",
+    "Ingredients": [ "Pork Loin", "Bell Pepper", "Onion", "Carrots" ]
+  },
+  {
+    "Id": 6,
+    "Name": "Pancakes",
+    "Image": "https://i.pinimg.com/originals/e5/53/ea/e553eaf36385957b942e26a7572b4596.jpg",
+    "Ingredients": [ "Flour", "Eggs", "Water", "Milk", "Butter" ]
+  },
+  {
+    "Id": 7,
+    "Name": "Shish Kebab",
+    "Image": "https://i0.wp.com/shadmajid.com/wp-content/uploads/2021/07/grillad_kebabspett-3312586988-1631357895701.jpg?fit=878%2C727&ssl=1",
+    "Ingredients": [ "Lamb", "Onion", "Parsley", "Eggs", "Flour", "water" ]
+  },
+  {
+    "Id": 8,
+    "Name": "Green Pepper Chicken",
+    "Image": "https://www.thasneen.com/cooking/wp-content/uploads/2012/01/Green-Pepper-Chicken.jpg",
+    "Ingredients": [ "Chicken Breast", "Green Pepper", "Cooking Cream", "Rice" ]
+  },
+  {
+    "Id": 9,
+    "Name": "Fried Rice",
+    "Image": "https://www.seriouseats.com/thmb/tuMCogfAOy2zNdVqE7ydUwuru9Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/easy-vegetable-fried-rice-recipe-hero-2-fed2a62b8bce4c51b945d9c24c2edb68.jpg",
+    "Ingredients": [ "Rice", "Greep Peas", "Eggs", "Garlic", "MSG", "Onion" ]
+  },
+  {
+    "Id": 10,
+    "Name": "Butter Chicken",
+    "Image": "https://www.kitchensanctuary.com/wp-content/uploads/2021/04/Butter-Chicken-square-FS-34.jpg",
+    "Ingredients": [ "Chicken Breast", "Butter", "Rice", "Garam Masala", "Onion", "Red Chili", "Tomatoes", "Ginger", "Garlic" ]
+  },
+  {
+    "Id": 11,
+    "Name": "Sausage Stroganoff",
+    "Image": "https://static.cdn-expressen.se/images/81/28/81280b6efbb0470c9385fab3a70a1c0d/4x3/1920@80.jpg",
+    "Ingredients": [ "Sausage from Falun", "Onion", "Garlic", "Tomatoes", "Rice", "Cooking Cream" ]
+  },
+  {
+    "Id": 12,
+    "Name": "Beef Stroganoff",
+    "Image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/1706-dme-beef-stroganoff:Mobile-1300x1150",
+    "Ingredients": [ "Beef", "Onion", "Garlic", "Flour", "Water", "Beef Stock", "Rice" ]
+  },
+  {
+    "Id": 13,
+    "Name": "Pasta Aglio e olio",
+    "Image": "https://www.cook2eatwell.com/wp-content/uploads/2019/03/Spaghetti-Aglio-e-Olio.jpg",
+    "Ingredients": [ "Pasta", "Cheese", "Parley", "Red Chili", "Lemon", "Olive Oil" ]
+  },
+  {
+    "Id": 14,
+    "Name": "Swedish Tacos",
+    "Image": "https://assets.icanet.se/e_sharpen:80,q_auto,dpr_1.25,w_718,h_718,c_lfill/imagevaultfiles/id_166979/cf_259/tacos.jpg",
+    "Ingredients": [ "Minced Meat", "Onion", "Cheese", "Lettuce", "Tomatoes", "Tortilla", "Sour Cream", "Hot Sauce" ]
+  },
+  {
+    "Id": 15,
+    "Name": "Jamies Dying Curse",
+    "Image": "https://i.imgur.com/ikLdNPS.jpg",
+    "Ingredients": ["Salt", "Jamie"]
+  }
+]
